@@ -125,5 +125,5 @@ jobs:
       uses: actions/upload-artifact@master
       if: always()
       with:
-        name: Padavan-packages-k2p-4.4-60-60-60
+        name: Padavan-packages-k2p-5.0-60-60-60
         path: /opt/images
